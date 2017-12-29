@@ -1,0 +1,4 @@
+#Thu Dec 28 23:51:22 EST 2017
+base.0=/Users/drose/Documents/GitHub/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

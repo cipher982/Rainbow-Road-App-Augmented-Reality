@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Dec 28 23:51:18 EST 2017
+0.baseType=DIRECTORY
+0.base=/Users/drose/Documents/GitHub/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/assets/debug
+0.path=BUILD
+0.set=ASSET
+count=1
